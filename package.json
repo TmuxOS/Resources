@@ -1,0 +1,23 @@
+{
+  "name": "tmuxos-resources",
+  "version": "1.0.0",
+  "description": "Resources for TmuxOS (images, GIMP sessions etc).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TmuxOS/Resources.git"
+  },
+  "keywords": [
+    "tmuxos",
+    "resources"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TmuxOS/Resources/issues"
+  },
+  "homepage": "https://github.com/TmuxOS/Resources"
+}
